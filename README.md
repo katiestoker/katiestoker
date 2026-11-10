@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katiestoker
 - 👀 I’m interested in bioinformatics, immuno-oncology, clinical research...
-- 🌱 I’m currently working as a Computational Biologist at Cancer Research UK (CRUK)
+- 📫 I’m currently working as a Computational Biologist at Cancer Research UK (CRUK)
 
 <!---
 - 💞️ I’m looking to collaborate on ...
